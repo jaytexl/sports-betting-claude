@@ -1,0 +1,3 @@
+# Run records from the /arena skill (.claude/skills/arena). Each run writes
+# hundreds of solution, attack and verdict files here; keep them out of git.
+.arena/
