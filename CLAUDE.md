@@ -6,5 +6,7 @@
   still fits under the cap. Profit includes bonus-pack winnings and bonus-entry
   profit. (Account 1 was at +$546.96 on Oct 22, 2026, including $26.11 from
   bonus packs.)
-- Do not treat a push/tie as a refund on PrizePicks 2-pick Power Plays: a push
-  removes that pick and the remaining pick still has to win, or the entry loses.
+- Do not treat a push/tie as a refund on PrizePicks 2-pick Power Plays. Per the
+  PrizePicks help center, a tie stays in the lineup and drops the payout one level:
+  tie + win pays 1.5x; tie + loss is a loss. (A DNP is different: 2-pick Power
+  with a DNP is refunded.)
