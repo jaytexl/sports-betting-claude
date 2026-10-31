@@ -6,6 +6,11 @@
   still fits under the cap. Profit includes bonus-pack winnings and bonus-entry
   profit. (Account 1 was at +$546.96 on Oct 22, 2026, including $26.11 from
   bonus packs; +$533.46 on Oct 24, 2026; +$501.96 on Oct 25, 2026; +$461.96 on Oct 26, 2026; +$480.56 on Oct 30, 2026.)
+- **The $599 profit cap applies to BOTH PrizePicks accounts** (user clarified
+  Oct 31, 2026). Check every entry, on either account, against the cap before
+  recommending it. Until the user says otherwise, check it both ways: each
+  account's own profit, and the two accounts' combined profit (Account 2 was at
+  +$58.65 on Oct 30, 2026).
 - PrizePicks bonus/promo entries (e.g. Flex Friday refunds) pay profit only: the
   bonus stake is not returned, so a win adds payout minus the bonus amount.
 - Do not treat a push/tie as a refund on PrizePicks 2-pick Power Plays. Per the
