@@ -16,3 +16,10 @@
   PrizePicks help center, a tie stays in the lineup and drops the payout one level:
   tie + win pays 1.5x; tie + loss is a loss. (A DNP is different: 2-pick Power
   with a DNP is refunded.)
+- Profit history (rebuilt Nov 5, 2026 from the user's Oct 21 account-history
+  screen recordings; both accounts started Sep 29-30, 2026). Combined = A1 + A2,
+  PrizePicks only (the user also lost $50 on another app, not included):
+  Oct 8 close: A1 +$214.25, A2 +$71.42, combined +$285.67.
+  Oct 15 close: A1 +$399.35, A2 +$51.42, combined +$450.77.
+  Oct 22 close: A1 +$546.96 (incl. $26.11 bonus packs), A2 -$28.58 (incl. $3.79
+  packs), combined +$518.38. Peak Oct 31: combined +$581.70.
