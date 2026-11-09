@@ -9,7 +9,7 @@
 - **The $599 net profit cap applies to EACH PrizePicks account separately**
   (user clarified Oct 31, 2026; it is per account, not combined). Check every
   entry on either account against that account's own cap before recommending it.
-  (Account 2 was at +$58.65 on Oct 30, 2026; +$81.15 on Oct 31, 2026; +$24.67 on Nov 4, 2026 (balance $63.25).)
+  (Account 2 was at +$58.65 on Oct 30, 2026; +$81.15 on Oct 31, 2026; +$24.67 on Nov 4, 2026 (balance $63.25); -$10.33 on Nov 8, 2026 after a $35 loss (balance $0, with a $28.25-to-win-$84.75 slip open Nov 9).)
 - PrizePicks bonus/promo entries (e.g. Flex Friday refunds) pay profit only: the
   bonus stake is not returned, so a win adds payout minus the bonus amount.
 - Do not treat a push/tie as a refund on PrizePicks 2-pick Power Plays. Per the
