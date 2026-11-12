@@ -5,11 +5,11 @@
   an Account 1 entry, check the current profit and make sure the maximum payout
   still fits under the cap. Profit includes bonus-pack winnings and bonus-entry
   profit. (Account 1 was at +$546.96 on Oct 22, 2026, including $26.11 from
-  bonus packs; +$533.46 on Oct 24, 2026; +$501.96 on Oct 25, 2026; +$461.96 on Oct 26, 2026; +$480.56 on Oct 30, 2026; +$500.55 on Oct 31, 2026; +$468.05 on Nov 4, 2026; +$483.05 on Nov 8, 2026; +$493.05 on Nov 10, 2026; still +$493.05 on Nov 12 after the Curry/Daniels slip was refunded, balance about $87.49.)
+  bonus packs; +$533.46 on Oct 24, 2026; +$501.96 on Oct 25, 2026; +$461.96 on Oct 26, 2026; +$480.56 on Oct 30, 2026; +$500.55 on Oct 31, 2026; +$468.05 on Nov 4, 2026; +$483.05 on Nov 8, 2026; +$493.05 on Nov 10, 2026; still +$493.05 on Nov 11 after the Curry/Daniels slip was refunded, balance about $87.49.)
 - **The $599 net profit cap applies to EACH PrizePicks account separately**
   (user clarified Oct 31, 2026; it is per account, not combined). Check every
   entry on either account against that account's own cap before recommending it.
-  (Account 2 was at +$58.65 on Oct 30, 2026; +$81.15 on Oct 31, 2026; +$24.67 on Nov 4, 2026 (balance $63.25); -$10.33 on Nov 8, 2026 after a $35 loss (balance $0, with a $28.25-to-win-$84.75 slip open Nov 9); -$38.58 on Nov 9, 2026 after that slip lost (balance $0). Nov 10: deposited $100 (no profit change), got two $12.50 bonus bets; -$41.58 after Nov 10 slips, balance about $67. Nov 11-12: both bonus slips lost (no profit change), Curry/Daniels slip refunded; still -$41.58, balance about $97, no bonus bets left.)
+  (Account 2 was at +$58.65 on Oct 30, 2026; +$81.15 on Oct 31, 2026; +$24.67 on Nov 4, 2026 (balance $63.25); -$10.33 on Nov 8, 2026 after a $35 loss (balance $0, with a $28.25-to-win-$84.75 slip open Nov 9); -$38.58 on Nov 9, 2026 after that slip lost (balance $0). Nov 10: deposited $100 (no profit change), got two $12.50 bonus bets; -$41.58 after Nov 10 slips, balance about $67. Nov 11: both bonus slips lost (no profit change), Curry/Daniels slip refunded; still -$41.58, balance about $97, no bonus bets left.)
 - PrizePicks bonus/promo entries (e.g. Flex Friday refunds) pay profit only: the
   bonus stake is not returned, so a win adds payout minus the bonus amount.
 - Do not treat a push/tie as a refund on PrizePicks 2-pick Power Plays. Per the
