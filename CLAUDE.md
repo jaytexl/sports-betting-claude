@@ -25,3 +25,8 @@
   Oct 15 close: A1 +$399.35, A2 +$51.42, combined +$450.77.
   Oct 22 close: A1 +$546.96 (incl. $26.11 bonus packs), A2 -$28.58 (incl. $3.79
   packs), combined +$518.38. Peak Oct 31: combined +$581.70. Nov 12 close: A1 +$497.05, A2 +$53.42, combined +$550.47. Nov 13 close: combined +$520.47. Nov 14 close: A1 +$492.05, A2 +$63.42, combined +$555.47. NEW PEAK Nov 15 close: A1 +$496.55, A2 +$135.87, combined +$632.42.
+- Leg record (rebuilt Nov 16, 2026; same player/line counted once, also across
+  accounts): Sep 29-Oct 20 (history videos) 87-37; Oct 24-Nov 4 (chat) 36-15
+  with 54 legs unknown; Nov 5-15 39-10, 1 push. Known total 162-62 (72%). Counting
+  the minimum hidden losses on losing slips with unreported legs: about 165-77 (68%).
+  Oct 21-23 not covered.
