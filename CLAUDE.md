@@ -30,3 +30,5 @@
   with 54 legs unknown; Nov 5-15 39-10, 1 push. Known total 162-62 (72%). Counting
   the minimum hidden losses on losing slips with unreported legs: about 165-77 (68%).
   Oct 21-23 not covered.
+- On PrizePicks slips the GREEN face icon is a GOBLIN (easier line, lower payout),
+  not a demon. Don't call green-icon legs demons (user corrected Nov 16, 2026).
