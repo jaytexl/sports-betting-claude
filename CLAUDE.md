@@ -5,7 +5,8 @@
   an Account 1 entry, check the current profit and make sure the maximum payout
   still fits under the cap. Profit includes bonus-pack winnings and bonus-entry
   profit. (Account 1 was at +$546.96 on Oct 22, 2026, including $26.11 from
-  bonus packs; +$533.46 on Oct 24, 2026; +$501.96 on Oct 25, 2026; +$461.96 on Oct 26, 2026; +$480.56 on Oct 30, 2026; +$500.55 on Oct 31, 2026; +$468.05 on Nov 4, 2026; +$483.05 on Nov 8, 2026; +$493.05 on Nov 10, 2026; still +$493.05 on Nov 11 after the Curry/Daniels slip was refunded; +$497.05 on Nov 12; +$492.05 on Nov 13 after a $5 Flex Friday loss (got a $5 bonus back), balance $81.49 on Nov 14; the bonus 3-pick lost (no change); Nov 15: Jokic/Jefferson slip won, +$496.55, balance about $90.99.)
+  bonus packs; +$533.46 on Oct 24, 2026; +$501.96 on Oct 25, 2026; +$461.96 on Oct 26, 2026; +$480.56 on Oct 30, 2026; +$500.55 on Oct 31, 2026; +$468.05 on Nov 4, 2026; +$483.05 on Nov 8, 2026; +$493.05 on Nov 10, 2026; still +$493.05 on Nov 11 after the Curry/Daniels slip was refunded; +$497.05 on Nov 12; +$492.05 on Nov 13 after a $5 Flex Friday loss (got a $5 bonus back), balance $81.49 on Nov 14; the bonus 3-pick lost (no change); Nov 15: Jokic/Jefferson slip won, +$496.55, balance about $90.99. Nov 16: $5-to-win-$18 Sharpe/LeBron slip open.)
+- **PrizePicks limits Account 1 to $5 max per slip.** Bigger stakes go on Account 2.
 - **The $599 net profit cap applies to EACH PrizePicks account separately**
   (user clarified Oct 31, 2026; it is per account, not combined). Check every
   entry on either account against that account's own cap before recommending it.
